@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 865af128e2beb374a8abca0d45942a38
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: blinn28
+    2100002: Aguilar_Connor_cityscape_meshedit4_blinn6
+    2100004: Aguilar_Connor_cityscape_meshedit4_blinn7
+    2100006: Aguilar_Connor_cityscape_meshedit4_windowBlinn
+    2100008: Aguilar_Connor_cityscape_meshedit4_blinn3
+    2100010: Aguilar_Connor_cityscape_meshedit4_blinn5
+    2100012: lambert6
+    2100014: Aguilar_Connor_cityscape_meshedit4_blinn4
+    2100016: Aguilar_Connor_cityscape_meshedit4_buildingBlinn
+    2100018: Aguilar_Connor_cityscape_meshedit4_roof
+    2100020: Aguilar_Connor_cityscape_meshedit6_blinn29
+    2100022: Aguilar_Connor_cityscape_meshedit6_blinn30
+    2100024: Aguilar_Connor_cityscape_meshedit6_blinn31
+    2100026: Aguilar_Connor_cityscape_meshedit6_blinn32
+    2100028: wood5
+    2100030: blinn31
+    2100032: lambert7
+    2100034: blinn36
+    2100036: Aguilar_Connor_cityscape_meshedit6_blinn33
+    2100038: Aguilar_Connor_cityscape_meshedit6_blinn34
+    2100040: Aguilar_Connor_cityscape_meshedit6_blinn35
+    2100042: wood4
+    2100044: blinn29
+    2100046: blinn19
+    2100048: blinn16
+    2100050: blinn2
+    2100052: blinn5
+    2100054: blinn1
+    2100056: blinn4
+    2100058: Aguilar_Connor_cityscape_meshedit4_windowBlinn1
+    2100060: blinn12
+    2100062: blinn13
+    2100064: blinn11
+    2100066: blinn10
+    2100068: blinn30
+    2100070: blinn14
+    2100072: Moulton_Kathleen_Cityscape_materials_SearsTower_Caps
+    2100074: Moulton_Kathleen_Cityscape_materials_SearsTower_blinn2
+    2100076: Moulton_Kathleen_Cityscape_materials_SearsTower_Tops
+    2100078: Moulton_Kathleen_Cityscape_materials_Rookery_Brick
+    2100080: Moulton_Kathleen_Cityscape_materials_Rookery_WindowGlass
+    2100082: Moulton_Kathleen_Cityscape_materials_Rookery_BrickTexture
+    2100084: lambert8
+    2100086: moulton_kathleen_cityscape_materials_beanAndCrownFountain_Glass
+    2100088: moulton_kathleen_cityscape_materials_beanAndCrownFountain_Glass2
+    2100090: moulton_kathleen_cityscape_materials_beanAndCrownFountain_face
+    2100092: blinn39
+    2100094: blinn35
+    2100096: blinn33
+    2100098: blinn38
+    2100100: Moulton_Kathleen_Cityscape_materials_RobieHouse_brickTest_brick1
+    2100102: Moulton_Kathleen_Cityscape_materials_RobieHouse_WindowGlow
+    2100104: Moulton_Kathleen_Cityscape_materials_RobieHouse_Rims
+    2100106: Moulton_Kathleen_Cityscape_materials_RobieHouse_blinn2
+    2100108: Moulton_Kathleen_Cityscape_materials_RobieHouse_Roof
+    2100110: Moulton_Kathleen_Cityscape_materials_RobieHouse_Brick
+    2100112: blinn37
+    2100114: blinn40
+    2100116: blinn42
+    2100118: whiteLInes
+    2100120: blinn41
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Buildings1_typeMesh14
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
