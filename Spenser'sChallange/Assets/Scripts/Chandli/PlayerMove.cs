@@ -192,7 +192,6 @@ public class PlayerMove : MonoBehaviour {
                             GetComponent<SpriteRenderer>().flipX = !GetComponent<SpriteRenderer>().flipX;
                         }
                         mFacingRight = true;
-                        //float  pussySmasher = Input.GetAxis("Horizontal");
                         float finalSpeed = mSpeed;
                         if (mInAir)
                         {
